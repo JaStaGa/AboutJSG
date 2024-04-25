@@ -1,0 +1,58 @@
+/* General body styles */
+body {
+    font-family: 'Arial', sans-serif; /* This is a placeholder, you can choose any 'cool' font that you prefer */
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: red;
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+    border-bottom: 1px solid grey;
+}
+
+/* Footer styles */
+footer {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+footer a {
+    color: red;
+    text-decoration: none;
+}
+
+/* Utility classes */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
