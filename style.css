@@ -56,3 +56,11 @@ footer a {
     margin: auto;
     overflow: hidden;
 }
+
+/* Font from Google */
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
